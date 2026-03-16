@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💫 About Me:
+💫 About Me: <br>
 🔭 I’m currently working on Spring Boot.<br>📚 I'm currently a student at SLIIT.<br>🌱 I’m currently learning about AI/ML<br>⚡ Fun fact : I learn by breaking things and figuring out why they broke
 
 
